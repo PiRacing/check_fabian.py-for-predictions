@@ -19,7 +19,7 @@ Mine is 'C:\Users\kansh\Desktop\FYP'
 # Running the python script
 Create a new notebook, type %load "C:\Users\kansh\projects\mycar\check_fabian.py (Check Predictions).py"
 
-Windows uses "\" & Linux uses "//" for directory path
+Windows uses "\\" & Linux uses "//" for directory path
 
 # You can LOAD the the tub from directory path
 1. filename='C:\Users\kansh\projects\mycar\data\tub_280_20-02-01\"
